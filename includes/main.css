@@ -1,0 +1,42 @@
+﻿BODY {
+  COLOR: #004c75;
+  FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
+  FONT-SIZE: 11px;
+}
+
+UL, LI, P, TD, TR {
+  COLOR: #004c75;
+  FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
+  FONT-SIZE: 11px;
+}
+
+FORM {
+  FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
+  FONT-SIZE: 11px;
+}
+SELECT, INPUT, TEXTAREA {
+  FONT-FAMILY: Tahoma,Arial,Helvetica,sans-serif;
+  COLOR: #0F5475;
+  FONT-SIZE: 11px;
+}
+
+.header { color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: bold; background-color: #0000ff }
+.header A:link, .header A:visited, .header A:active { COLOR: #ffffff;  FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.header A:hover { COLOR: #99cc33; FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline }
+
+.subheader {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: bold; background-color: #c0c0c0}
+.subheader A:link, .subheader A:visited, .subheader A:active { COLOR: #0000ff;  FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.subheader A:hover { COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline }
+
+.regular {  font-family: Arial; font-size: 8pt; font-style: normal; font-weight: normal; background-color: #FFFFFF}
+.regular A:link, .regular A:visited, .regular A:active { COLOR: #0000ff;  FONT-FAMILY: Arial; FONT-SIZE: 9pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.regular A:hover { COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 9pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline }
+
+.small { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal;}
+.small A:link { COLOR: #0000ff;  FONT-FAMILY: Arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.small A:visited, .regulars A:active { COLOR: darkblue;  FONT-FAMILY: Arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.small A:hover { COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 8pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline }
+
+.grey {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: normal; font-weight: normal; background-color: #f0f0f0}
+.grey A:link, .grey A:visited, .grey A:active { COLOR: #0000ff;  FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: none }
+.grey A:hover { COLOR: #ff0000; FONT-FAMILY: Arial; FONT-SIZE: 10pt; FONT-WEIGHT: normal; TEXT-DECORATION: underline }
